@@ -1,11 +1,13 @@
 *{
     margin: 0;
     padding: 0;
+    font-size: 1em;
 }
 header{
     background-color: black;
     color: white;
     margin-bottom: 100px;
+    padding-top: 50px;
 }
 header > h1{
     color: white;
@@ -29,7 +31,7 @@ header > p > a:hover{
 }
 p{
     font-family: Sriracha, cursive;
-    font-size: 2vw;
+    font-size: 4vw;
 }
 .normal{
     margin-bottom: 100px;
@@ -41,7 +43,7 @@ p{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
-    height: 60vh;
+    height: 100vh;
 }
 #imagem2{
     background-image: url(./imagens/background002.jpg);
@@ -49,7 +51,7 @@ p{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
-    height: 60vh;
+    height: 100vh;
 }
 .diferente{
     padding-top: 30px;
