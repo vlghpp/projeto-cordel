@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    color: white;
+    margin-bottom: 100px;
+}
+header > h1{
+    color: white;
+    font-size: 10vw;
+    font-family: Passion One, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+header > p{
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 1.5em;
+}
+header > p > a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+header > p > a:hover{
+    text-decoration: underline;
+    color: whitesmoke;
+}
+p{
+    font-family: Sriracha, cursive;
+    font-size: 2vw;
+}
+.normal{
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+#imagem1{
+    background-image: url(./imagens/background001.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+#imagem2{
+    background-image: url(./imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+.diferente{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    margin-bottom: 100px;
+    color: white;
+}
+.paragrafoImagem{
+    background-color: rgba(0, 0, 0, 0.178);
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer > p{
+    font-size: 1.5em;
+}
+footer > p > a{
+    text-decoration: none;
+}
