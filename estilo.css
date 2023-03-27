@@ -43,6 +43,7 @@ p{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: 0px 0px 4px black;
     height: 40vw;
 }
 #imagem2{
@@ -51,6 +52,7 @@ p{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: 0px 0px 4px black;
     height: 40vw;
 }
 .diferente{
