@@ -31,7 +31,7 @@ header > p > a:hover{
 }
 p{
     font-family: Sriracha, cursive;
-    font-size: 4vw;
+    font-size: 3vw;
 }
 .normal{
     margin-bottom: 100px;
@@ -43,7 +43,7 @@ p{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
-    height: 100vh;
+    height: 40vw;
 }
 #imagem2{
     background-image: url(./imagens/background002.jpg);
@@ -51,12 +51,11 @@ p{
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
-    height: 100vh;
+    height: 40vw;
 }
 .diferente{
-    padding-top: 30px;
-    padding-bottom: 50px;
-    padding-left: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
     margin-bottom: 100px;
     color: white;
 }
@@ -69,7 +68,7 @@ footer{
     text-align: center;
 }
 footer > p{
-    font-size: 1.5em;
+    font-size: 13px;
 }
 footer > p > a{
     text-decoration: none;
