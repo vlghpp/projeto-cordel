@@ -62,7 +62,10 @@ p{
     color: white;
 }
 .paragrafoImagem{
+    display: inline-block;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.178);
+
 }
 footer{
     background-color: black;
